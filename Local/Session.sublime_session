@@ -20,6 +20,7 @@
 			"buffers":
 			[
 				{
+					"contents": "",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -114,6 +115,7 @@
 								],
 								"settings":
 								{
+									"auto_name": "",
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
@@ -162,7 +164,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,306,211,946,691,1366,768",
+			"position": "0,0,0,0,0,186,127,1249,694,1366,768",
 			"project": "",
 			"replace":
 			{

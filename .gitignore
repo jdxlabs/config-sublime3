@@ -1,6 +1,7 @@
 Backup/
 Cache/
 Settings/
+Local/Session.sublime_session
 Local/Auto Save Session.sublime_session
 Local/License.sublime_license
 Packages/Default/Preferences.sublime-settings
