@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[echo '<pre>'; print_r(${1:expression}); echo '</pre>' . " <br>\n";]]></content>
+    <tabTrigger>ptr</tabTrigger>
+    <scope>source.php</scope>
+    <description>Affiche un print_r formatté</description>
+</snippet>

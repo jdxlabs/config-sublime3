@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[echo ${1:expression} . " <br>\n";]]></content>
+    <tabTrigger>ecn</tabTrigger>
+    <scope>source.php</scope>
+    <description>Affiche un echo formatté</description>
+</snippet>
