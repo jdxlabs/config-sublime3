@@ -1,6 +1,8 @@
 Backup/
 Cache/
 Settings/
+Local/Auto Save Session.sublime_session
+Local/License.sublime_license
 Packages/Default/Preferences.sublime-settings
 Packages/Default/Startup.cache
 Packages/Theme - Default/arrow_right@2x.png
