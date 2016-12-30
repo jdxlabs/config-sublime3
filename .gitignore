@@ -1,0 +1,18 @@
+Backup/
+Cache/
+Settings/
+Packages/Default/Preferences.sublime-settings
+Packages/Default/Startup.cache
+Packages/Theme - Default/arrow_right@2x.png
+Packages/User/Package Control.cache
+Packages/User/Package Control.last-run
+Packages/User/Package Control.system-ca-bundle
+Packages/Vintage/vintage.py
+Pristine Packages/CSS.sublime-package
+Pristine Packages/Default.sublime-package
+Pristine Packages/Theme - Default.sublime-package
+Pristine Packages/User.sublime-package
+Pristine Packages/Vintage.sublime-package
+*.cache
+*.pyc
+.DS_Store
