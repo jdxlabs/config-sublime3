@@ -1,0 +1,10 @@
+[
+    { "keys": ["ctrl+shift+y"], "command": "fold_by_level", "args": {"level": 2} },
+    { "keys": ["ctrl+shift+x"], "command": "unfold" },
+    { "keys": ["ctrl+/"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["ctrl+:"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+up"], "command": "scroll_lines", "args": {"amount": 1.0 } },
+    { "keys": ["ctrl+shift+down"], "command": "scroll_lines", "args": {"amount": -1.0 } },
+    { "keys": ["ctrl+up"], "command": "swap_line_up" },
+    { "keys": ["ctrl+down"], "command": "swap_line_down" }
+]
