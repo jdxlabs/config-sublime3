@@ -14,7 +14,9 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-phpcs",
+		"Theme - Cola",
 		"Theme - Soda",
+		"Themr",
 		"Zen Tabs"
 	]
 }
