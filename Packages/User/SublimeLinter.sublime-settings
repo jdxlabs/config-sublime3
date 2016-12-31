@@ -17,7 +17,7 @@
                 "args": [],
                 "cmd": "phpcs",
                 "excludes": [],
-                "standard": "~/phpcs.xml"
+                "standard": "${home}/phpcs.xml"
             }
         },
         "mark_style": "outline",
