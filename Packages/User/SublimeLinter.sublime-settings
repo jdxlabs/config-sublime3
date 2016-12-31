@@ -13,7 +13,7 @@
                 "excludes": []
             },
             "phpcs": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "cmd": "phpcs",
                 "excludes": [],
