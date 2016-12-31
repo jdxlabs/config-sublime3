@@ -11,6 +11,9 @@
 		"Function Name Display",
 		"Package Control",
 		"Pretty JSON",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-phpcs",
 		"Theme - Soda",
 		"Zen Tabs"
 	]
