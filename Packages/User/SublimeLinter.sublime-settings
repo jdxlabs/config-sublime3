@@ -12,6 +12,11 @@
                 "args": [],
                 "excludes": []
             },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "phpcs": {
                 "@disable": true,
                 "args": [],
